@@ -6,6 +6,7 @@
 
 > If you do not understand the following readme, please give me an issue to explain the situation,or open [README.en.md](https://github.com/2moe/tmoe-linux/blob/master/README.en.md)  
 > 化繁为简，让 GNU/Linux 的乐趣触手可及。
+亮少QQ:2328031994
 
 ## 介绍 Introduction
 
